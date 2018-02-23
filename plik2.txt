@@ -1,3 +1,2 @@
 linijka1
-jeszcze
-blabla
+linijka2
