@@ -1,1 +1,2 @@
-linia3
+linia1
+linia2
